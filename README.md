@@ -33,6 +33,6 @@ most of my time is spent building projects, learning new technologies, and exper
 - rust
 - ethereum
 - solana
-- zero-knowledge systems
+- zero knowledge systems
 
 ---
