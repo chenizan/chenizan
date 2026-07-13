@@ -10,7 +10,7 @@ building • crypto • web3
 
 i'm a developer interested in crypto, blockchain, and automation.
 
-most of my time is spent building projects, learning new technologies, and experimenting with ideas that live on-chain.
+most of my time is spent building projects, learning new technologies, and experimenting with ideas that live on chain.
 
 ## currently focused on
 
