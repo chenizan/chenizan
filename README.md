@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">gm 👋 I'm Chen</h1>
 
-<!--
-**chenizan/chenizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building • Trading • Learning • Shipping
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Crypto | Web3 | Open Source | Automation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a developer with a strong interest in crypto, blockchain technology, and automation.
+
+I enjoy building tools, experimenting with new ideas, and exploring decentralized technologies.
+
+### Current Focus
+
+- ⛓️ Blockchain Development
+- 💰 DeFi & On-Chain Analytics
+- 🤖 Automation
+- ⚡ Smart Contracts
+- 🌐 Web3 Infrastructure
+
+---
+
+## 🚀 Building
+
+- Trading bots
+- Crypto utilities
+- Open-source projects
+- Automation tools
+- Web3 experiments
+
+---
+
+## 📚 Currently Learning
+
+- Solidity
+- Rust
+- Ethereum
+- Solana
+- Zero-Knowledge (ZK) Technology
+- AI × Crypto
+
+---
+
+<p align="center">
+<em>"The best way to predict the future is to build it."</em>
+</p>
