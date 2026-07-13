@@ -1,52 +1,38 @@
-<h1 align="center">Chen</h1>
+<h1 align="center">chen</h1>
 
 <p align="center">
-Building • Trading • Learning • Shipping
-</p>
-
-<p align="center">
-Crypto | Web3 | Open Source | Automation
+building • crypto • web3
 </p>
 
 ---
 
-## 🧠 About Me
+## about
 
-I'm a developer with a strong interest in crypto, blockchain technology, and automation.
+i'm a developer interested in crypto, blockchain, and automation.
 
-I enjoy building tools, experimenting with new ideas, and exploring decentralized technologies.
+most of my time is spent building projects, learning new technologies, and experimenting with ideas that live on-chain.
 
-### Current Focus
+## currently focused on
 
-- ⛓️ Blockchain Development
-- 💰 DeFi & On-Chain Analytics
-- 🤖 Automation
-- ⚡ Smart Contracts
-- 🌐 Web3 Infrastructure
+- blockchain development
+- defi
+- smart contracts
+- automation
+- web3 infrastructure
 
----
+## building
 
-## 🚀 Building
+- trading tools
+- crypto utilities
+- open source projects
+- web3 experiments
 
-- Trading bots
-- Crypto utilities
-- Open-source projects
-- Automation tools
-- Web3 experiments
+## learning
 
----
-
-## 📚 Currently Learning
-
-- Solidity
-- Rust
-- Ethereum
-- Solana
-- Zero-Knowledge (ZK) Technology
-- AI × Crypto
+- solidity
+- rust
+- ethereum
+- solana
+- zero-knowledge systems
 
 ---
-
-<p align="center">
-<em>"The best way to predict the future is to build it."</em>
-</p>
