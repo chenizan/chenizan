@@ -1,4 +1,4 @@
-<h1 align="center">gm 👋 I'm Chen</h1>
+<h1 align="center">Chen</h1>
 
 <p align="center">
 Building • Trading • Learning • Shipping
